@@ -1,4 +1,4 @@
-# The power of open science *(template for you to play with)*
+# The power of open science WOOOOOO*(template for you to play with)*
 
 These [Google slides](https://docs.google.com/presentation/d/1CsoBX3LwU8r5_34nuzthO9bn8xLxZMmL6-uY-yUaRTs/edit?usp=sharing) are from a 60-minute guest lecture about open science, the Ocean Health Index, and Openscapes. The audience was Professor Claudia Tyler's Conservation Ecology EEMB 168 course at UCSB on March 7, 2019. 
 
@@ -9,11 +9,15 @@ You can contact me *(lists need a carriage return before list items)*:
 
 
 Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
+*testing*
+**testing**
 
+    - testing some nested
+    - stuff!
 
 Name | Twitter | GitHub
 -----|---------|--------
-Jamie | [@jafflerbach](https://twitter.com/jafflerbach) | [@jafflerbach](https://github.com/jafflerbach)
+Allison | [@allison_horst](https://twitter.com/allison_horst) | [@allisonhorst](https://github.com/allisonhorst)
 Melanie |  | [@Melsteroni](https://github.com/Melsteroni)
 
 Have you noticed the `[]()` pattern to make links in Markdown? Put words to hyperlink in `[]` and the URL in `()`. 
