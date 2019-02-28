@@ -4,6 +4,9 @@
 
 ### The power of open science
 
+** The power of open science **
+__The power of open science__
+
 These [Google slides](https://docs.google.com/presentation/d/1CsoBX3LwU8r5_34nuzthO9bn8xLxZMmL6-uY-yUaRTs/edit?usp=sharing) are from a 60-minute guest lecture about open science, the Ocean Health Index, and Openscapes. The audience was Professor Claudia Tyler's Conservation Ecology EEMB 168 course at UCSB on March 7, 2019. 
 
 You can contact me *(lists need a carriage return before list items)*: 
