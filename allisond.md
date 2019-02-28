@@ -15,6 +15,7 @@ Name | Twitter | GitHub
 -----|---------|--------
 Jamie | [@jafflerbach](https://twitter.com/jafflerbach) | [@jafflerbach](https://github.com/jafflerbach)
 Melanie |  | [@Melsteroni](https://github.com/Melsteroni)
+Allison | [@agdedrick](https://twitter.com/agdedrick) | [@agdedrick](https://github.com/agdedrick)
 
 Have you noticed the `[]()` pattern to make links in Markdown? Put words to hyperlink in `[]` and the URL in `()`. 
 
