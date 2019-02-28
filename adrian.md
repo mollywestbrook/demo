@@ -1,4 +1,4 @@
-# The power of open science *(template for you to play with)*
+# This is test of the emergency broadcasting system, this is only a test
 
 I don't have anything to share EXCEPT OUR **NEW SCIENCE PAPER THAT I CAN'T STOP TALKING ABOUT IT** - http://science.sciencemag.org/content/363/6425/eaav1004.abstract
 
