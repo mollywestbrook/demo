@@ -1,11 +1,15 @@
 # The power of open science *(template for you to play with)*
 
-These [Google slides](https://docs.google.com/presentation/d/1CsoBX3LwU8r5_34nuzthO9bn8xLxZMmL6-uY-yUaRTs/edit?usp=sharing) are from a 60-minute guest lecture about open science, the Ocean Health Index, and Openscapes. The audience was Professor Claudia Tyler's Conservation Ecology EEMB 168 course at UCSB on March 7, 2019. 
+I don't have anything to share EXCEPT OUR **NEW SCIENCE PAPER THAT I CAN'T STOP TALKING ABOUT IT** - http://science.sciencemag.org/content/363/6425/eaav1004.abstract
 
 You can contact me *(lists need a carriage return before list items)*: 
 
-- twitter: [@juliesquid](https://twitter.com/juliesquid)
-- github: [@jules32](https://github.com/jules32)
+- twitter: [@adrianstier](https://twitter.com/adrianstier)
+- github: [@adrianstier](https://github.com/adrianstier)
+
+
+
+
 
 
 Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
