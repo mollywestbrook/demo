@@ -4,9 +4,8 @@ I don't have anything to share EXCEPT OUR **NEW SCIENCE PAPER THAT I CAN'T STOP 
 
 We talk about whales some, which is fun: 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sperm_whale_pod.jpg/1599px-Sperm_whale_pod.jpg)
+
 
 You can contact me *(lists need a carriage return before list items)*: 
 
