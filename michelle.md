@@ -22,3 +22,11 @@ I also talked about GitHub for science – and can include an image with the sam
 
 ![](https://octodex.github.com/images/labtocat.png)
 
+Not sure what to add here.
+
+## Openscapes is great!
+
+Jennifer and Arne are wonderful breakout group partners.
+
+![](https://pics.clipartpng.com/Clownfish_PNG_Clipart-431.png)
+
