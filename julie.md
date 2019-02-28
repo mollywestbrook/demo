@@ -10,6 +10,8 @@ You can contact me:
 - github: [@jules32](https://github.com/jules32)
 - ajfdklajf
 
+insert figure
+![](https://docs.google.com/drawings/d/e/2PACX-1vRFn0uLpN-d_Ut_V6QRVDAuLc74KhzoHCCElFo6BO9oAbpVBO1heV0ArayNNPDhyJsUsEtveF2gA3iF/pub?w=960&h=720)
 
 Here is a table with some collaborators:
 
