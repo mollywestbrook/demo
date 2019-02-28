@@ -1,12 +1,20 @@
 # The power of open science *(template for you to play with)*
 
+# Lab protocol
+
 These [Google slides](https://docs.google.com/presentation/d/1CsoBX3LwU8r5_34nuzthO9bn8xLxZMmL6-uY-yUaRTs/edit?usp=sharing) are from a 60-minute guest lecture about open science, the Ocean Health Index, and Openscapes. The audience was Professor Claudia Tyler's Conservation Ecology EEMB 168 course at UCSB on March 7, 2019. 
+
+[make a link to a thing](https://www.pnas.org/content/pnas/116/9/3624.full.pdf)
 
 You can contact me *(lists need a carriage return before list items)*: 
 
 - twitter: [@juliesquid](https://twitter.com/juliesquid)
 - github: [@jules32](https://github.com/jules32)
 
+Make a list
+- thing 1
+- thing 2
+- thing 3
 
 Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
 
@@ -15,6 +23,14 @@ Name | Twitter | GitHub
 -----|---------|--------
 Jamie | [@jafflerbach](https://twitter.com/jafflerbach) | [@jafflerbach](https://github.com/jafflerbach)
 Melanie |  | [@Melsteroni](https://github.com/Melsteroni)
+
+
+Make a table
+
+Thing 1 | Thing 2 | Thing 3
+--------|---------|--------
+stuffs | more stuffs | yet more stuffs
+junk | more junk | yet more junk
 
 Have you noticed the `[]()` pattern to make links in Markdown? Put words to hyperlink in `[]` and the URL in `()`. 
 
