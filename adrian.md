@@ -4,9 +4,8 @@ I don't have anything to share EXCEPT OUR **NEW SCIENCE PAPER THAT I CAN'T STOP 
 
 We talk about whales some, which is fun: 
 
-![alt text] (https://upload.wikimedia.org/wikipedia/commons/b/bb/Rawpixel_original_lithographs_by_rawpixel-com_00003.jpg)
-![alt text] https://upload.wikimedia.org/wikipedia/commons/b/bb/Rawpixel_original_lithographs_by_rawpixel-com_00003.jpg)
- 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 You can contact me *(lists need a carriage return before list items)*: 
 
 - twitter: [@adrianstier](https://twitter.com/adrianstier)
