@@ -20,6 +20,11 @@ Name | Twitter | GitHub
 Allison | [@allison_horst](https://twitter.com/allison_horst) | [@allisonhorst](https://github.com/allisonhorst)
 Melanie |  | [@Melsteroni](https://github.com/Melsteroni)
 
+My | Test | Table
+------ | ------ | ------
+hi | there| table
+with | a | [link to 244 Lab 1](https://github.com/allisonhorst/esm-244-lab-1)
+
 Have you noticed the `[]()` pattern to make links in Markdown? Put words to hyperlink in `[]` and the URL in `()`. 
 
 I also talked about GitHub for science – and can include an image with the same format, but note the preceding exclamation point: `![]()` (From the browser, you'll need an image with an existing url). 
