@@ -13,7 +13,7 @@ You can contact me *(lists need a carriage return before list items)*:
 
 Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
 
-![](https://en.wikipedia.org/wiki/File:The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/b/b4/The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg)
 
 
 
