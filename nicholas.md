@@ -22,3 +22,7 @@ I also talked about GitHub for science – and can include an image with the sam
 
 ![](https://octodex.github.com/images/labtocat.png)
 
+code chunk
+```
+echo 'Hello World'
+```
