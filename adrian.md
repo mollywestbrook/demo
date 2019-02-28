@@ -2,10 +2,16 @@
 
 I don't have anything to share EXCEPT OUR **NEW SCIENCE PAPER THAT I CAN'T STOP TALKING ABOUT IT** - http://science.sciencemag.org/content/363/6425/eaav1004.abstract
 
+We talk about whales some, which is fun: 
+
+![alt text] (https://commons.wikimedia.org/wiki/Category:Whales#/media/File:Rawpixel_original_lithographs_by_rawpixel-com_00003.jpg)
+
 You can contact me *(lists need a carriage return before list items)*: 
 
 - twitter: [@adrianstier](https://twitter.com/adrianstier)
 - github: [@adrianstier](https://github.com/adrianstier)
+
+
 
 
 
