@@ -4,7 +4,7 @@ I don't have anything to share EXCEPT OUR **NEW SCIENCE PAPER THAT I CAN'T STOP 
 
 We talk about whales some, which is fun: 
 
-![alt text] (https://commons.wikimedia.org/wiki/Category:Whales#/media/File:Rawpixel_original_lithographs_by_rawpixel-com_00003.jpg)
+![alt text] (https://upload.wikimedia.org/wikipedia/commons/b/bb/Rawpixel_original_lithographs_by_rawpixel-com_00003.jpg)
 
 You can contact me *(lists need a carriage return before list items)*: 
 
