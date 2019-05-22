@@ -22,3 +22,26 @@ I also talked about GitHub for science – and can include an image with the sam
 
 ![](https://octodex.github.com/images/labtocat.png)
 
+-----
+
+# Molly's edits!
+
+Let's practice editing on Github with the Solar System!
+
+![](https://www.universetoday.com/wp-content/uploads/2011/09/Saturn.png)
+
+Can you see our planet? 
+
+[This](https://www.nasa.gov/mission_pages/cassini/multimedia/pia17171.html) is an article talking about this famous picture taken from Cassini. The photograph above is called 'The Day the Earth Smiled'.
+
+Here are some of my favorite planets:
+
+Name | Position from the Sun | Why do I like it?
+-----|-----------------------|------------------
+Saturn | 6 | Cool rings
+Neptune | 7 | Blue Blue Blue!!!
+Mars | 4 | It's red!
+Earth | 3 | Our home
+Venus | 2| Why don't you like Venus???
+
+I formatted my plain text table using `|---|----|`
